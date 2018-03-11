@@ -17,7 +17,7 @@ namespace Basics.cs
             bool lost = true;
             bool expensive = true;
             int choice = 2;
-            //const char = "\\u{222B}";      // escape character needs double
+            const char integral = '\u222B';      // escape character needs double
             int age = 0;
             string greeting = "Hello";
             string name = "Karen";
@@ -54,7 +54,7 @@ namespace Basics.cs
                     break;
                     
             }
-
+            Console.WriteLine("{0} is an integral.", integral);
             for (int i = 5; i < 11; i++)
             {
                 Console.WriteLine("i={0}", i);
