@@ -1,5 +1,0 @@
-/Users/ochirnyamsmac/Documents/Object Oriented Design I/Basics.cs/Basics.cs/bin/Debug/Basics.cs.exe
-/Users/ochirnyamsmac/Documents/Object Oriented Design I/Basics.cs/Basics.cs/bin/Debug/Basics.cs.pdb
-/Users/ochirnyamsmac/Documents/Object Oriented Design I/Basics.cs/Basics.cs/obj/x86/Debug/Basics.cs.csproj.CoreCompileInputs.cache
-/Users/ochirnyamsmac/Documents/Object Oriented Design I/Basics.cs/Basics.cs/obj/x86/Debug/Basics.cs.exe
-/Users/ochirnyamsmac/Documents/Object Oriented Design I/Basics.cs/Basics.cs/obj/x86/Debug/Basics.cs.pdb
